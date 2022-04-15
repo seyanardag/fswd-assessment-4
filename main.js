@@ -1,16 +1,3 @@
-// var express = require("express");
-// var app = express();
-
-// var data = require("./data.json");
-
-
-// app.get("/", function(req, res) { 
-//   res.json(data);
-// });
-
-// app.listen(5000, function() {
-// 	console.log("Server running on port 5000...");
-// });
 
 
 const express = require("express");
